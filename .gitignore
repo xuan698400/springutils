@@ -1,0 +1,6 @@
+# Mac crap
+.DS_Store
+
+.idea/*
+target/*
+xutils.iml
